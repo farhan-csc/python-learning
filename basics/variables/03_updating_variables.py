@@ -1,7 +1,9 @@
 balance = 100000
 
-# update balance
+# Add money
 balance += 50000
+
+# Spend money
 balance -= 25000
 
 print(f"Update balance: {balance}")
