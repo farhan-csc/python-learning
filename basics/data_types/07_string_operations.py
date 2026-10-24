@@ -1,3 +1,4 @@
+# operation of string: len(), .upper(), .lower(), .strip(), replace(old, new), startswith(...)
 name = " Muhammad Farhan "
 message = "I am learning Python"
 
